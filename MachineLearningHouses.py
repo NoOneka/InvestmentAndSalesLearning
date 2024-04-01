@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np 
 
 #Importing sales base
-base = pd.read_excel(r'portifolio\\Investimento x Venda.xlsx')
+base = pd.read_excel(r'Archive')
 
 
 #Linear relationship between investment and sales 
